@@ -1,0 +1,25 @@
+.hero-img-container {
+    background: url("/assets/images/avon_strings_1_small.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 650px;
+    
+}
+
+.colright {
+    background-color: rgb(14, 14, 49);
+}
+
+.jumbotron {
+    color: #241b1b;
+    padding: 100px;
+}
+
+.vids-home {
+    padding: 50px;
+}
+
+.vids {
+    background-color: rgb(65, 65, 114);
+}
